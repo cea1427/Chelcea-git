@@ -1,5 +1,7 @@
 ini adalah resolusi kegiatan XII PPLG 1
 
--teori tentang gt dan github 
--praktik github 
--kolaborasi
+-teori tentang git dan github 
+-praktik git
+-kolaborasi menggunakan github dan git
+-membuat materi struktur data
+-buat database
